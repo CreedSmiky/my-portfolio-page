@@ -1,1 +1,15 @@
-
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+body{
+    background-image: url(/images/star-578e2d35-c010-3aba-8bc3-8087eff5a7a5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}   
+.header img{
+    width: 130px;
+    height: 130px;
+}
